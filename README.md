@@ -4,11 +4,11 @@
 ## Problem Statement
 - To understand the factors on which the demand for the shared bikes depends. Specifically, BoomBikes want to understand the factors affecting the demand for these shared bikes in the American market. 
 - The company wants to know:
--- Which variables are significant in predicting the demand for shared bikes.
--- How well those variables describe the bike demands
+  - Which variables are significant in predicting the demand for shared bikes.
+  - How well those variables describe the bike demands
 
 ## Conclusions
-#### The best predictors that business can look upon 
+### The best predictors that business can look upon 
 
 #### For numerical values
 - **temp** - with unit increase in temp the cnt increases by .53 times
