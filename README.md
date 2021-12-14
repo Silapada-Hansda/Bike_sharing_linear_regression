@@ -2,10 +2,10 @@
 > Build a multiple linear regression model for the prediction of demand for shared bikes
 
 ## Problem Statement
-- To understand the factors on which the demand for these shared bikes depends. Specifically, BoomBikes want to understand the factors affecting the demand for these shared bikes in the American market. 
--The company wants to know:
---Which variables are significant in predicting the demand for shared bikes.
---How well those variables describe the bike demands
+- To understand the factors on which the demand for the shared bikes depends. Specifically, BoomBikes want to understand the factors affecting the demand for these shared bikes in the American market. 
+- The company wants to know:
+-- Which variables are significant in predicting the demand for shared bikes.
+-- How well those variables describe the bike demands
 
 ## Conclusions
 #### The best predictors that business can look upon 
@@ -35,22 +35,3 @@
 ## Contact
 Created by [@Silapada-Hansda] - feel free to contact me!
 
-=========================================
-License
-=========================================
-Use of this dataset in publications must be cited to the following publication:
-
-[1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
-
-@article{
-	year={2013},
-	issn={2192-6352},
-	journal={Progress in Artificial Intelligence},
-	doi={10.1007/s13748-013-0040-3},
-	title={Event labeling combining ensemble detectors and background knowledge},
-	url={http://dx.doi.org/10.1007/s13748-013-0040-3},
-	publisher={Springer Berlin Heidelberg},
-	keywords={Event labeling; Event detection; Ensemble learning; Background knowledge},
-	author={Fanaee-T, Hadi and Gama, Joao},
-	pages={1-15}
-}
