@@ -1,9 +1,9 @@
 # Project Name
-> Outline a brief description of your project.
+> Build a multiple linear regression model for the prediction of demand for shared bikes
 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [Problem Statement](#Problem Statement)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
